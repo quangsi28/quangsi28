@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @quangsi28
+- 👋 Hi, I’m Si Dang
 - 👀 I’m interested in Fullstack
 - 🌱 I’m currently learning .Net
 - 💞️ I’m looking to collaborate on anything
