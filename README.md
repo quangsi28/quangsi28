@@ -1,4 +1,9 @@
-- 👋 Hi, I’m Si Dang
+***👋 Hi, I’m Si Dang***
+
+Checkout my lastest product:
+- 🚀 https://box-packer.sidang.tech/
+
+About me:
 - 👀 I’m interested in Fullstack
 - 🌱 I’m currently learning .Net
 - 💞️ I’m looking to collaborate on anything
