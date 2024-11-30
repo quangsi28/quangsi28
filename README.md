@@ -1,6 +1,6 @@
 ***👋 Hi, I’m Si Dang***
 
-Checkout my lastest product:
+Checkout my latest product:
 - 🚀 https://box-packer.sidang.tech/
 
 About me:
