@@ -1,7 +1,7 @@
 ***👋 Hi, I’m Si Dang***
 
 Checkout my latest product:
-- 🚀 https://fitmybox.xyz/
+- 📦 https://fitmybox.xyz/
 
 About me:
 - 👀 I’m interested in Fullstack
