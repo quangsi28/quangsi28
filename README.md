@@ -1,12 +1,15 @@
-***👋 Hi, I’m Si Dang***
+# 👋 Hello, I'm Si Dang!
 
-Checkout my latest product:
-- 📦 https://fitmybox.xyz/
+### Welcome to my GitHub profile!
 
-About me:
-- 👀 I’m interested in Fullstack
-- 🌱 I’m currently building Tech products
-- 💞️ I’m looking to collaborate on anything
+#### 🚀 Latest Project:
+- Check this out: [FitMyBox](https://fitmybox.xyz/)
+
+#### About Me:
+- 👀 Passionate about Fullstack Development
+- 🌱 Continuously building innovative Tech products
+- 💡 Always eager to learn and implement new technologies
+- 🤝 Open to collaboration on exciting projects
 
 <!---
 quangsi28/quangsi28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
